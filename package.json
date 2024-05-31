@@ -1,0 +1,23 @@
+{
+  "name": "r83_live_to_do_list",
+  "version": "1.0.0",
+  "description": "TO_do_list",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "to_do_list": "Index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rizwana Ali",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.2"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  }
+}
